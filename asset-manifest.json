@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://pawan77-lala.github.io/csb-nbsuy/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://pawan77-lala.github.io/csb-nbsuy/static/js/main.b288b62c.chunk.js",
+    "main.js.map": "https://pawan77-lala.github.io/csb-nbsuy/static/js/main.b288b62c.chunk.js.map",
+    "runtime-main.js": "https://pawan77-lala.github.io/csb-nbsuy/static/js/runtime-main.97243aef.js",
+    "runtime-main.js.map": "https://pawan77-lala.github.io/csb-nbsuy/static/js/runtime-main.97243aef.js.map",
+    "static/js/2.ddce9bf0.chunk.js": "https://pawan77-lala.github.io/csb-nbsuy/static/js/2.ddce9bf0.chunk.js",
+    "static/js/2.ddce9bf0.chunk.js.map": "https://pawan77-lala.github.io/csb-nbsuy/static/js/2.ddce9bf0.chunk.js.map",
+    "index.html": "https://pawan77-lala.github.io/csb-nbsuy/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://pawan77-lala.github.io/csb-nbsuy/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.ddce9bf0.chunk.js.LICENSE.txt": "https://pawan77-lala.github.io/csb-nbsuy/static/js/2.ddce9bf0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.97243aef.js",
+    "static/js/2.ddce9bf0.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.b288b62c.chunk.js"
+  ]
+}
